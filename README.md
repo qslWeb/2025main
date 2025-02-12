@@ -32,3 +32,6 @@ git submodule add -b main https://github.com/qslWeb/ause.git libs/sub-repo
 
 ### 提交说明
 无用，作间隔
+
+### 最后一个标签
+若有此行文字显示代表拉取代码方法不正确
