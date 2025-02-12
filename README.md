@@ -14,3 +14,9 @@
 ### 提交记录说明
 我是第一个标签
 
+
+### 提交记录说明
+增加标签成功
+增加标签的命令是
+git tag -a v1.0 -m "Tag message for v1.0"
+git push origin v1.0
